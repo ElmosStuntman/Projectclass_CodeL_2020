@@ -10,9 +10,9 @@ I will make use of the CSV included in this repo
 
 STEPS TO ACCOMPLISH
 
-Import neccesary packages
-Import CSV as database.
-Show iniitial database.
-Show cleaned data.
-Use SQL and Pandas to aggregate data.
-Use Plot.ly to visualize data
+1.Import neccesary packages
+2.Import CSV as database.
+3.Show iniitial database.
+4.Show cleaned data.
+5.Use SQL and Pandas to aggregate data.
+6.Use Plot.ly to visualize data
