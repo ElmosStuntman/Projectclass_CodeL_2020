@@ -11,8 +11,13 @@ I will make use of the CSV included in this repo
 STEPS TO ACCOMPLISH
 
 1.Import neccesary packages
+
 2.Import CSV as database.
+
 3.Show iniitial database.
+
 4.Show cleaned data.
+
 5.Use SQL and Pandas to aggregate data.
+
 6.Use Plot.ly to visualize data
